@@ -9,5 +9,4 @@ Currently, two official plugins are available:
 
 
 ###  PROJECT VIDEO  ###
-
-https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox/FMfcgzQVwnfNfXzJFHLXvspgGKbndsnL?projector=1&messagePartId=0.2
+https://drive.google.com/file/d/15d1OcCHrnOl4D_9OMd1iS2SmA--ZqMAW/view?usp=sharing
